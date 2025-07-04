@@ -271,6 +271,13 @@ a:focus {
   position: unset;
 }
 
+.slider_section .detail-box {
+  background: #fff;
+  padding: 30px;
+  border-radius: 20px;
+}
+
+
 .slider_section .detail-box h1 {
     font-size: 4.5rem;
     font-weight: bold;
